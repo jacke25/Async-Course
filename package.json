@@ -1,0 +1,23 @@
+{
+  "name": "async-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacke25/Async-Course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacke25/Async-Course/issues"
+  },
+  "homepage": "https://github.com/jacke25/Async-Course#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
